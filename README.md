@@ -4,7 +4,7 @@
 
 MediBuddy is a leading digital healthcare platform in India, offering a wide range of services including inpatient hospitalization, outpatient services, and corporate wellness benefits. Founded in 2000 and headquartered in Bangalore, Karnataka, India, MediBuddy is known for its innovative technology platform that streamlines the process of accessing and utilizing health benefits.
 
-## Objective
+## Objective 
 
 The primary objective of this project is to analyze key factors influencing insurance claims and policy costs for MediBuddy. The analysis aims to provide actionable insights on whether certain demographics or health-related factors should influence policy decisions. Additionally, the project involves building a predictive machine learning model to estimate the amount spent on each policy with the highest possible accuracy.
 
